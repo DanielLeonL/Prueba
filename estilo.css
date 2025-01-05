@@ -88,3 +88,31 @@ legend{
 p{
     margin: 10px 0px;
 }
+
+table {
+    border-collapse: collapse;
+    width: 80%; 
+    margin: 20px auto; 
+}
+
+th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 10px;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+td ul {
+    padding-left: 20px; 
+}
+
+td ul li {
+    margin-bottom: 5px; 
+}
+
+tr {
+    height: 50px; 
+}
