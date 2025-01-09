@@ -48,7 +48,8 @@ legend{
     margin: 10px;
     width: 19em;
     float: left;
-    height: 98%;
+    min-height:98%;
+    height: auto;
     background-color: #45C4C4;
 }
 
